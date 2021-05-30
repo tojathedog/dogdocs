@@ -1,0 +1,5 @@
+# ignore .jira files - i am used to using jira at work and i'm lazy so i'm writing these
+#                      in jira markdown format and then using pandoc (https://pandoc.org/)
+#                      to convert to github-flavored markdown
+#                      pandoc -f jira -t gfm $file
+*.jira
