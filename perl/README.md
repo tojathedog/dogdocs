@@ -22,7 +22,7 @@ memes
 [effective perler](https://www.effectiveperlprogramming.com/) - a good
 blog
 
-\[<https://log.perl.org/>|perl noc blog\] - noc is how the world goes
+[perl noc blog](https://log.perl.org/) - noc is how the world goes
 'round
 
 #### learning
