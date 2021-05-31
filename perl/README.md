@@ -14,6 +14,9 @@ in cli but you're feeling mousey
 
 #### news, updates, articles
 
+[perldelta](https://perldoc.pl/perl#History) - changes between perl
+versions
+
 [/r/perl](https://www.reddit.com/r/perl/) - reddit's not just for dank
 memes
 
