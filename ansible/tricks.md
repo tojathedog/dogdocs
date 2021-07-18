@@ -1,4 +1,4 @@
-# top dog tips and tricks
+# ansible tricks
 
 ###### only for professionals
 
@@ -8,7 +8,7 @@ this one is great for separating and modulating tasks by os. you can set
 include\_tasks filename with *a variable*
 
     - name: kick off os-based install tasks
-      include_tasks: "install-packages-{{ ansible_os_family}}.yaml"
+      include_tasks: "install-packages-{{ ansible_os_family }}.yaml"
 
 ###### gotchas
 
